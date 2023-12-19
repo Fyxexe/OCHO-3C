@@ -1,4 +1,4 @@
-# OCHO-#C Project
+# OCHO-3C Project
 
 This Python project allows users to encrypt and decrypt text using multiple encryption levels.
 
